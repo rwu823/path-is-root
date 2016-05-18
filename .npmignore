@@ -1,0 +1,12 @@
+!/.npmignore
+/coverage
+/test
+/dev
+/scripts
+/assets
+.nyc_output
+
+/*.md
+/*.js
+/.*
+
